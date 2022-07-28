@@ -12,4 +12,4 @@ Spotify
 
 AirPlay
 -
-```https://raw.githubusercontent.com/melnichenko-serg/raspi-tidal-spotify/main/airplay.sh```
+```curl -sSL https://raw.githubusercontent.com/melnichenko-serg/raspi-tidal-spotify/main/airplay.sh | sudo bash```
